@@ -1,5 +1,5 @@
 # University of Maryland High School Programming Competition (HSPC) 2023
-Repository of problems and their full solutions from the 2023 UMD High School Programming Competition ([website](http://www.cs.umd.edu/Outreach/hsContest23/), [final scoreboard](docs/2023_hspc_final.html)).  
+Repository of problems and their full solutions from the 2023 UMD High School Programming Competition ([website](http://www.cs.umd.edu/Outreach/hsContest23/), [final scoreboard](docs/2023_hspc_final.png)).  
 
 ## `/docs`
 * Practice.pdf: problems for the practice contest
