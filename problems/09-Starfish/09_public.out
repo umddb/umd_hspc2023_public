@@ -1,0 +1,9 @@
+Test case: 1
+  Capacity: 3, Length: 5, Gap: 4
+  Starfish:  0  2  3  5  7  8  9  11  13  18  19  21
+  Found 4 intervals:
+    [0, 3] of length 3 containing 3 points
+    [7, 9] of length 2 containing 3 points gap size 4
+    [13, 13] of length 0 containing 1 points gap size 4
+    [18, 21] of length 3 containing 3 points gap size 5
+  Total starfish collected: 10

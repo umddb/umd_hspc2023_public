@@ -1,0 +1,36 @@
+============ Test Case 0 ====================
+Initial State: CDEAB
+Player 1: ACD
+Player 2: ABE
+*** First Player Wins ***
+Start -->        CDEAB
+Akula Topple --> DEABC
+Akula Up 2 A --> ADEBC
+Akula Up 2 E --> EADBC
+Akula Up 2 D --> DEABC
+Akula Up 2 A --> ADEBC
+Akula Up 1 D --> DAEBC
+Akula Up 1 A --> ADEBC
+Akula Up 1 D --> DAEBC
+Akula Up 1 A --> ADEBC
+Akula Topple --> DEBCA
+Akula Topple --> EBCAD
+Akula Topple --> BCADE
+============ Test Case 1 ====================
+Initial State: CDEAB
+Player 1: DEB
+Player 2: CAB
+*** Second Player Wins ***
+Start -->        CDEAB
+Akula Up 2 E --> ECDAB
+Akula Up 1 B --> ECDBA
+Akula Up 2 D --> DECBA
+Akula Up 2 C --> CDEBA
+Akula Up 1 D --> DCEBA
+Akula Up 1 C --> CDEBA
+Akula Up 1 D --> DCEBA
+Akula Topple --> CEBAD
+Akula Topple --> EBADC
+Akula Up 2 D --> EDBAC
+Akula Topple --> DBACE
+Akula Topple --> BACED
